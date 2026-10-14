@@ -1,9 +1,8 @@
-
 # Clément Chevauchey
 
 I'm an Electrical Engineering student at Universidad Nacional de Santiago del Estero (UNSE). I'm interested in power networks and electrical measurements, and I'm looking for opportunities to learn through supervised engineering work.
 
-My [academic portfolio](https://chevaucheyclement.github.io/academic-portfolio/) presents selected coursework and laboratory reports. You can read it in [English](https://chevaucheyclement.github.io/academic-portfolio/), [Spanish](https://chevaucheyclement.github.io/academic-portfolio/es/) or [French](https://chevaucheyclement.github.io/academic-portfolio/fr/). The original submitted lab reports are in Spanish.
+My [academic portfolio](https://chevaucheyclement.github.io/academic-portfolio/) presents selected coursework and laboratory reports. You can read it in [English](https://chevaucheyclement.github.io/academic-portfolio/?lang=en), [Spanish](https://chevaucheyclement.github.io/academic-portfolio/es/) or [French](https://chevaucheyclement.github.io/academic-portfolio/fr/). The original submitted lab reports are in Spanish.
 
 ## Featured electrical engineering work
 
