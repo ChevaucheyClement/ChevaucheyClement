@@ -1,77 +1,28 @@
-# Hi, I’m Clément Chevauchey
 
-Electrical Engineering student focusing on **power systems analysis**, **measurement & instrumentation** and **fault detection**.  
-I try to turn messy engineering problems into reproducible, readable pipelines.
- 
- You can explore my academic portfolio:
-  <a href="https://ChevaucheyClement.github.io/academic-portfolio/" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio Page"
-         src="https://img.shields.io/badge/Academic_Portfolio_Website-blue">
-  </a>
-   or its repository:
-  <a href="https://github.com/ChevaucheyClement/academic-portfolio" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio Repo"
-         src="https://img.shields.io/badge/GitHub-Repo-white?logo=github">
+# Clément Chevauchey
 
----
+I'm an Electrical Engineering student at Universidad Nacional de Santiago del Estero (UNSE). I'm interested in power networks and electrical measurements, and I'm looking for opportunities to learn through supervised engineering work.
 
-## Selected projects
+My [academic portfolio](https://chevaucheyclement.github.io/academic-portfolio/) presents selected coursework and laboratory reports. You can read it in [English](https://chevaucheyclement.github.io/academic-portfolio/), [Spanish](https://chevaucheyclement.github.io/academic-portfolio/es/) or [French](https://chevaucheyclement.github.io/academic-portfolio/fr/). The original submitted lab reports are in Spanish.
 
-- **MV Feeder Study (pandapower)** - baseline load flow/short circuit (IEC 60909), OLTC analysis, shunt capacitor sweep, targeted rebalancing, automated scenario ranking.  
-  
-- **PlantWeb - CS50 Final Project** 
-  <a href="https://ChevaucheyClement.github.io/Final-Project-CS50/" target="_blank" rel="noopener noreferrer">
-    <img alt="Project Page"
-         src="https://img.shields.io/badge/Page-Project-1f77b4?style=flat&labelColor=555">
-  </a>
-  <a href="https://final-project-cs50.onrender.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="Live Demo"
-         src="https://img.shields.io/badge/Live-Demo-f97316?style=flat&labelColor=555">
-  </a>
-  <a href="https://github.com/ChevaucheyClement/Final-Project-CS50/releases/latest" target="_blank" rel="noopener noreferrer">
-    <img alt="Latest Release"
-         src="https://img.shields.io/github/v/release/ChevaucheyClement/Final-Project-CS50?display_name=tag&color=10b981&label=Release&style=flat&labelColor=555">
-  </a>
-  Track your houseplants, store photos, and never miss a watering. Built with **Python**, **Flask** and **SQLite** for CS50.
-  - Add plants with either an uploaded image or a stock image from `static/stock/`
-  - Images are resized server-side to fast thumbnails; album images are **lazy-loaded** with fixed dimensions
-  - Due-date logic: next watering is computed from the last watering or the added date
-  - Auth (register/login) with hashed passwords and server-side sessions
-  - **CSRF protection** on all POST forms
-  - Clean Bootstrap UI with empty state and due-status badges
+## Featured electrical engineering work
 
-## Selected university work
-- **Electronics II (7 labs)** - Rectifiers, clippers, BJT single/cascade, op-amp labs validated against specs.  
-  _Stack_: LTspice/Proteus, biasing & small-signal, gain/bandwidth, measurement planning.
+- [Unbalanced three-phase loads (TP1)](https://chevaucheyclement.github.io/academic-portfolio/studies/tp1-three-phase-loads/) — observed how resistive, motor and capacitive loads changed current phasors with a power-quality analyzer.
+- [Three-phase power measurement (TP7)](https://chevaucheyclement.github.io/academic-portfolio/studies/tp7-three-phase-power/) — used the two-wattmeter method and current-transformer ratio to calculate indicated power.
+- [Insulation-resistance tests (TP2)](https://chevaucheyclement.github.io/academic-portfolio/studies/tp2-insulation-testing/) — recorded readings for a cable, dry transformer and motor, then calculated time-based resistance ratios.
 
-- **Electrical Measurements (7 labs)** - Instrument class, R/Z, single/three-phase power (3A/3V, wattmeter/Aron), Type A/B uncertainty.  
-  _Stack_: metrology, phasors/PF, Python analysis.
+I wrote the submitted reports, carried out their calculations and drew their conclusions. Measurements and instrument work were generally done with classmates under the supervision of teaching engineers. Each linked study includes the original PDF and describes the result and its limits.
 
-- **Logic systems — Traffic Lights (Proteus)** - Moore FSM + timing divider, debounced, deterministic phase timing.
+## Other work
 
-- **Thermo cycle studies** - Rankine (superheat vs no superheat; ideal vs real), and Otto/Diesel/Dual (η_th vs compression ratio).
+- [Electronics II](https://chevaucheyclement.github.io/academic-portfolio/electronics-ii/) — seven supervised labs covering rectifiers, transistors and operational amplifiers.
+- [Traffic-light logic in Proteus](https://github.com/ChevaucheyClement/academic-portfolio/tree/main/logics/traffic-lights-proteus) — a simulated, synchronized two-light circuit.
+- [PlantWeb](https://github.com/ChevaucheyClement/Final-Project-CS50) — my CS50 final project, a web app for organizing plants and watering.
 
----
+I was also an undergraduate teaching assistant at UNSE from 2022 to 2025, teaching introductory algorithms, Scilab and office tools.
 
-## How I structure projects
+## Methods and tools
 
-I try to make my projects **repeatable** and consistently **organised**:
+My published reports document circuit analysis, three-phase and insulation measurements, data interpretation and technical writing. I have used LTspice, Proteus, MATLAB, Scilab, Python, NumPy, Pandas and Matplotlib. I'm currently studying power transmission and distribution, electrical machines and transformers, and control systems.
 
-```
-project/
-├─ report.pdf        # final report in English (when available)
-├─ es/               # final report in Spanish
-├─ data/             # CSVs, raw/processed data
-├─ figures/          # plots/diagrams used in the report
-├─ code/             # scripts/notebooks
-└─ README.md         # short context + how-to-run
-```
-
----
-
-## Toolbox
-
-- **Power systems**: pandapower (LF, IEC 60909 SC), scenario design, Volt-VAR & curtailment concepts  
-- **Electronics & Measurements**: LTspice/Proteus, DMM/oscilloscope workflows, Type A/B uncertainty  
-- **Data & visualisation**: Python, pandas, matplotlib  
-- **Documentation & site**: Markdown, LaTeX snippets, Jekyll/Liquid
+[Portfolio and contact details](https://chevaucheyclement.github.io/academic-portfolio/#contact) · [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-chevauchey-413644179/)
